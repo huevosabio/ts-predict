@@ -1,3 +1,9 @@
+# mac stufff
+.DS_Store
+
+# data fiels
+ignored_assets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
