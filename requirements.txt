@@ -5,9 +5,11 @@ bleach==2.0.0
 certifi==2017.4.17
 configparser==3.5.0
 cycler==0.10.0
+Cython==0.25.2
 decorator==4.0.11
 entrypoints==0.2.3
 enum34==1.1.6
+fbprophet==0.1.1
 funcsigs==1.0.2
 functools32==3.2.3.post2
 html5lib==0.999999999
@@ -42,6 +44,7 @@ protobuf==3.3.0
 ptyprocess==0.5.2
 Pygments==2.2.0
 pyparsing==2.2.0
+pystan==2.16.0.0
 python-dateutil==2.6.0
 pytz==2017.2
 PyYAML==3.12
