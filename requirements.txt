@@ -6,7 +6,7 @@ certifi==2017.4.17
 configparser==3.5.0
 cycler==0.10.0
 Cython==0.25.2
-decorator==4.0.11
+decorator==4.1.2
 entrypoints==0.2.3
 enum34==1.1.6
 fbprophet==0.1.1
@@ -23,7 +23,9 @@ jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.1.0
 jupyter-core==4.3.0
+jupyterthemes==0.17.3
 Keras==2.0.6
+lesscpy==0.12.0
 MarkupSafe==1.0
 matplotlib==2.0.2
 mistune==0.7.4
@@ -39,13 +41,14 @@ patsy==0.4.1
 pbr==3.1.1
 pexpect==4.2.1
 pickleshare==0.7.4
-prompt-toolkit==1.0.14
+ply==3.10
+prompt-toolkit==1.0.15
 protobuf==3.3.0
 ptyprocess==0.5.2
 Pygments==2.2.0
 pyparsing==2.2.0
 pystan==2.16.0.0
-python-dateutil==2.6.0
+python-dateutil==2.6.1
 pytz==2017.2
 PyYAML==3.12
 pyzmq==16.0.2
@@ -56,6 +59,7 @@ scipy==0.19.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
+sklearn==0.0
 statsmodels==0.8.0
 subprocess32==3.2.7
 tensorflow==1.1.0
